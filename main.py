@@ -1,24 +1,20 @@
 
-def makeLambda(value):
-    ##################################################
-    # Make your code
-    # retrun lambda function
-    # add value to the all elements
-    ##################################################
-    return  # make your lamba function
+
+collectOddElm =  # make your code
+##################################################
+##################################################
+
+mylambda1 =  # make your code
+mylambda2 =  # make your code
 
 
-numbers = [10, 20, 30]
-
-add20 = makeLambda(20)
-numbers = add20(numbers)
+##################################################
+numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 print(numbers)
+# Figure out how it works
+print(mylambda1(numbers, collectOddElm))
 
-add50 = makeLambda(-50)
-numbers = add50(numbers)
+numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 print(numbers)
-
-
-numbers2 = [10, 20, 30, 40, 50, 60, 70, 80, 90, 100]
-numbers2 = add20(numbers2)
-print(numbers2)
+# Figure out how it works
+print(mylambda2(numbers, collectOddElm))
