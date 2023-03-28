@@ -1,14 +1,12 @@
 
 
-collectOddElm = lambda numbers: [ numbers.pop(i) for i in range(len(numbers)//2) ]
 ##################################################
-##################################################
+# collectOddElm = lambda numbers: [ numbers.pop(i) for i in range(len(numbers)//2) ]
 
 # mylambda1 =  # make your code
 # mylambda2 =  # make your code
-mylambda1 =  lambda x, f: len(f(x)) 
-mylambda2 =  lambda x, f: max(f(x)) 
 
+##################################################
 
 ##################################################
 def main():
